@@ -78,7 +78,7 @@
 
 <body>
 
-<header>🔐 Telegram VPN</header>
+<header>🔐 VPN Директора</header>
 
 <div class="card">
     <div class="status" id="status">VPN отключен 🔴</div>
